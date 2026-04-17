@@ -250,8 +250,3 @@ B.Tech CSE | MERN Stack Developer | Data Analyst
 
 ---
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to contribute!
-
----
